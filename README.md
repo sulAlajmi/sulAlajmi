@@ -5,17 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=sulalajmi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sulalajmi" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ## 🚀 About Me  
 - 🔭 Currently working on **OnQuick (my graduation project 🧑🏻‍🎓)**  
 - 🔎 Exploring **AI Applications**  
 - 💡 Passionate about **Flutter, React, AI, and Web Development**  
-- 💬 Ask me about **Flutter, React**  
+- 💬 Ask me about **Flutter, React, AI, and Web Technologies**  
 - 📫 Reach me at **s.binsalman3@gmail.com**  
 - 📄 View my CV: [My Resume](https://drive.google.com/file/d/1T78V5oD96pLWb-4SVqKlttjucnn_lgF0/view?usp=drive_link)  
 
@@ -45,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>  
   <a href="https://flask.palletsprojects.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/>
   </a>  
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
