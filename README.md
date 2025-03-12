@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sultan Alajmi</h1>
+<h1 align="center">Hi 👋, I'm Sultan</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
 <p align="left">
@@ -62,6 +62,12 @@
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  </a>  
 </p>
 
 ---
@@ -74,4 +80,3 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulalajmi&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
