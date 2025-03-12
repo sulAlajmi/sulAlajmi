@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 - 🔭 Currently working on **OnQuick (my graduation project 🧑🏻‍🎓)**  
 - 🔎 Exploring **AI Applications**  
-- 💡 Passionate about **Flutter, React, AI, and Web Development**  
+- 💡 Passionate about **Flutter, React**  
 - 💬 Ask me about **Flutter, React, AI, and Web Technologies**  
 - 📫 Reach me at **s.binsalman3@gmail.com**  
 - 📄 View my CV: [My Resume](https://drive.google.com/file/d/1T78V5oD96pLWb-4SVqKlttjucnn_lgF0/view?usp=drive_link)  
