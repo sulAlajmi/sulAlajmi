@@ -69,8 +69,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   </a>  
  <a href="https://tailwindcss.com" target="_blank"> 
-    <img src="https://creazilla.com/media/icon/3254431/tailwindcss-icon" alt="Tailwind CSS" width="40" height="40"/>
-  </a> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>  
 </p>
 
 ---
