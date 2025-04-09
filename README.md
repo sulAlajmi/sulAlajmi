@@ -11,7 +11,7 @@
 - 💡 Passionate about **Flutter, React, AI, and Web Technologies**  
 - 💬 Ask me about **Flutter, React**  
 - 📫 Reach me at **s.binsalman3@gmail.com**  
-- 📄 View my CV: [My Resume](https://drive.google.com/file/d/1nH3dFeCam8gmylR1EQobycvhC8Yg82QI/view?usp=sharing)  
+- 📄 View my CV: [My Resume](https://drive.google.com/file/d/1kcTP-8R6mhyZ8n8VWac0dsBsMgrdypp_/view?usp=sharing)  
 
 ---
 
