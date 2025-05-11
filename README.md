@@ -6,9 +6,8 @@
 </p>
 
 ## 🚀 About Me  
-- 🔐 Currently diving into Cybersecurity — exploring Red, Blue, and GRC tracks
-- 🧠 Building skills through hands-on labs, real-world tools, and certifications
-- 💡 Passionate about securing systems and combining software engineering with cyber defense 
+- 🔐 Currently diving into Cybersecurity
+- 🧠 Building skills through hands-on labs, real-world tools, and certifications 
 - 💬 Ask me about **Flutter, React and Web Technologies**  
 - 📫 Reach me at **s.binsalman3@gmail.com**  
 - 📄 View my CV: [My Resume](https://drive.google.com/file/d/1wc0Iu3HuGH_xTo3q3w_sOpwZOwD95utH/view?usp=sharing)  
