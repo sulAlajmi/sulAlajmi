@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sultan</h1>
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sulalajmi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me  
-- 🔭 Currently working on **OnQuick (my graduation project 🧑🏻‍🎓)**  
-- 🔎 Exploring **AI Applications**  
-- 💡 Passionate about **Flutter, React, AI, and Web Technologies**  
-- 💬 Ask me about **Flutter, React**  
+- 🔐 Currently diving into Cybersecurity — exploring Red, Blue, and GRC tracks
+- 🧠 Building skills through hands-on labs, real-world tools, and certifications
+- 💡 Passionate about securing systems and combining software engineering with cyber defense 
+- 💬 Ask me about **Flutter, React and Web Technologies**  
 - 📫 Reach me at **s.binsalman3@gmail.com**  
 - 📄 View my CV: [My Resume](https://drive.google.com/file/d/1wc0Iu3HuGH_xTo3q3w_sOpwZOwD95utH/view?usp=sharing)  
 
