@@ -6,7 +6,8 @@
 </p>
 
 ## 🚀 About Me  
-- 🔐 Currently diving into Cybersecurity
+- 🔐 Currently diving into **Cybersecurity**
+- 🤖 Also passionate about **AI & Machine Learning**, and continuously learning how to apply them in real-world solutions
 - 🧠 Building skills through hands-on labs, real-world tools, and certifications 
 - 💬 Ask me about **Flutter, React and Web Technologies**  
 - 📫 Reach me at **s.binsalman3@gmail.com**  
