@@ -11,7 +11,7 @@
 - 🧠 Building skills through hands-on labs, real-world tools, and certifications 
 - 💬 Ask me about **Flutter, React and Web Technologies**  
 - 📫 Reach me at **s.binsalman3@gmail.com**  
-- 📄 View my CV: [My Resume](https://drive.google.com/file/d/11UzTHkDMqbOcTse7A-MjhVjOpdP1W89g/view?usp=sharing)  
+- 📄 View my CV: [My Resume](https://drive.google.com/file/d/1rMaxqY_N2bVFpQPmIFOZN8esCaUdGL-u/view?usp=sharing)  
 
 ---
 
