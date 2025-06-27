@@ -81,7 +81,7 @@
   </a>
 
   <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_Icon.svg" alt="Wireshark" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/200px-Wireshark_icon.svg.png" alt="Wireshark" width="40" height="40"/>
   </a>
 
   <a href="https://www.linux.org/" target="_blank"> 
