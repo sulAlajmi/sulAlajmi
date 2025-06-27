@@ -6,11 +6,10 @@
 </p>
 
 ## 🚀 About Me  
-- 🔐 Currently diving into **Cybersecurity**
-- 🤖 Also passionate about **AI & Machine Learning**, and continuously learning how to apply them in real-world solutions
-- 🧠 Building skills through hands-on labs, real-world tools, and certifications 
-- 💬 Ask me about **Flutter, React and Web Technologies**  
-- 📫 Reach me at **s.binsalman3@gmail.com**  
+- 🔐 Currently focused on **Cybersecurity**
+- 🧠 Passionate about **Bug Bounty Hunting** and **Penetration Testing**
+- 🔍 Actively exploring tools like **Burp Suite**, **Nmap**, **Wireshark**, and more
+- 📫 Reach me at **s.binsalman3@gmail.com** 
 - 📄 View my CV: [My Resume](https://drive.google.com/file/d/1rMaxqY_N2bVFpQPmIFOZN8esCaUdGL-u/view?usp=sharing)  
 
 ---
@@ -67,9 +66,26 @@
   </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  </a>   
+
+   <a href="https://www.kali.org/" target="_blank">
+    <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" height="40"/>
   </a>  
- <a href="https://tailwindcss.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://portswigger.net/cms/images/PortSwigger-logo.svg" alt="Burp Suite" width="40" height="40"/>
+  </a>
+
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap-logo.svg" alt="Nmap" width="40" height="40"/>
+  </a>  
+
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="40" height="40"/>
   </a>  
 </p>
 
