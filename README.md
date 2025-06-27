@@ -73,7 +73,7 @@
   </a>  
 
   <a href="https://portswigger.net/burp" target="_blank">
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ABurpSuite_Comunity_Edition.svg&psig=AOvVaw0T5C9UsQPqKpTpUD0-bhtw&ust=1751129542342000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCF8ISIko4DFQAAAAAdAAAAABAE)" alt="Burp Suite" width="40" height="40"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ABurpSuite_Comunity_Edition.svg&psig=AOvVaw0T5C9UsQPqKpTpUD0-bhtw&ust=1751129542342000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCF8ISIko4DFQAAAAAdAAAAABAE" alt="Burp Suite" width="40" height="40"/>
   </a>
 
   <a href="https://nmap.org/" target="_blank">
