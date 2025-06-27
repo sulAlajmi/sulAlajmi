@@ -73,15 +73,15 @@
   </a>  
 
   <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://portswigger.net/cms/images/PortSwigger-logo.svg" alt="Burp Suite" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" alt="Burp Suite" width="40" height="40"/>
   </a>
 
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap-logo.svg" alt="Nmap" width="40" height="40"/>
-  </a>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Nmap_Logo.svg" alt="Nmap" width="40" height="40"/>
+  </a>
 
   <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_Icon.svg" alt="Wireshark" width="40" height="40"/>
   </a>
 
   <a href="https://www.linux.org/" target="_blank"> 
