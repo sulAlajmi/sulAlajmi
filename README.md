@@ -77,7 +77,7 @@
   </a>
 
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Nmap_Logo.svg" alt="Nmap" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vbkndf2gRS3v-7lormlTG_irfzTUQHd6-g&s" alt="Nmap" width="40" height="40"/>
   </a>
 
   <a href="https://www.wireshark.org/" target="_blank">
