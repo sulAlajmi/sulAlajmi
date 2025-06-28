@@ -6,7 +6,7 @@
 </p>
 
 ## 🚀 About Me  
-- 	🔐 I’m currently diving deep into the world of **Cybersecurity**
+- 🔐 I’m currently diving deep into the world of **Cybersecurity**
 -	🛡️ Enthusiastic about **Bug Bounty Hunting** & **Penetration Testing**
 -	🔍 I enjoy working with tools like **Burp Suite**, **Nmap**, **Wireshark**, and more
 -	📫 You can reach me at **s.binsalman3@gmail.com**
