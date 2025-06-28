@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 - 🔐 Currently focused on **Cybersecurity**
-- 🧠 Passionate about **Bug Bounty Hunting** and **Penetration Testing**
+- 🛡️ **Bug Bounty Hunting** and **Penetration Testing** enthusiast
 - 🔍 Actively exploring tools like **Burp Suite**, **Nmap**, **Wireshark**, and more
 - 📫 Reach me at **s.binsalman3@gmail.com** 
 - 📄 View my CV: [My Resume](https://drive.google.com/file/d/1rMaxqY_N2bVFpQPmIFOZN8esCaUdGL-u/view?usp=sharing)  
