@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sultan</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sulalajmi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me  
-- 🔐 Currently focused on **Cybersecurity**
-- 🛡️ **Bug Bounty Hunting** and **Penetration Testing** enthusiast
-- 🔍 Actively exploring tools like **Burp Suite**, **Nmap**, **Wireshark**, and more
-- 📫 Reach me at **s.binsalman3@gmail.com** 
+- 	🔐 I’m currently diving deep into the world of **Cybersecurity**
+-	🛡️ Enthusiastic about **Bug Bounty Hunting** & **Penetration Testing**
+-	🔍 I enjoy working with tools like **Burp Suite**, **Nmap**, **Wireshark**, and more
+-	📫 You can reach me at **s.binsalman3@gmail.com**
 - 📄 View my CV: [My Resume](https://drive.google.com/file/d/1rMaxqY_N2bVFpQPmIFOZN8esCaUdGL-u/view?usp=sharing)  
 
 ---
@@ -25,9 +25,6 @@
 
 ## 🛠️ Technologies & Tools  
 <p align="left">
-  <a href="https://developer.android.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>  
   <a href="https://dart.dev" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
   </a>  
