@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 - 🔐 I’m currently diving deep into the world of **Cybersecurity**
 -	🛡️ Enthusiastic about **Bug Bounty Hunting** & **Penetration Testing**
--	🔍 I enjoy working with tools like **Burp Suite**, **Nmap**, **Wireshark**, and more
+-	🔍 I enjoy working with tools like **Burp Suite**, **Nmap**, **Wireshark**, **Metasploit** and more
 -	📫 You can reach me at **s.binsalman3@gmail.com**
 - 📄 View my CV: [My Resume](https://drive.google.com/file/d/1rMaxqY_N2bVFpQPmIFOZN8esCaUdGL-u/view?usp=sharing)  
 
@@ -84,6 +84,10 @@
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="40" height="40"/>
   </a>  
+
+  <a href="https://www.metasploit.com/" target="_blank">
+  <img src="https://www.metasploit.com/images/metasploit-logo.svg" alt="Metasploit" width="40" height="40"/>
+</a>
 </p>
 
 ---
