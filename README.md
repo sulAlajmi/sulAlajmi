@@ -10,7 +10,7 @@
 -	🛡️ Enthusiastic about **Bug Bounty Hunting** & **Penetration Testing**
 -	🔍 I enjoy working with tools like **Burp Suite**, **Nmap**, **Wireshark**, **Metasploit** and more
 -	📫 You can reach me at **s.binsalman3@gmail.com**
-- 📄 View my CV: [My Resume](https://drive.google.com/file/d/1rMaxqY_N2bVFpQPmIFOZN8esCaUdGL-u/view?usp=sharing)  
+- 📄 View my CV: [My Resume](https://drive.google.com/file/d/1LqOEePxrVzoARJAb1ntOtJICYv5SjOYi/view?usp=sharing)  
 
 ---
 
