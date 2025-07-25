@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sultan</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center"> Software Engineer & Cybersecurity Enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sulalajmi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me  
-- 🔐 I’m currently diving deep into the world of **Cybersecurity**
--	🛡️ Enthusiastic about **Bug Bounty Hunting** & **Penetration Testing**
--	🔍 I enjoy working with tools like **Burp Suite**, **Nmap**, **Wireshark**, **Metasploit** and more
+
+- 🔐 Diving deep into **Cybersecurity**, specializing in offensive security techniques.  
+- 🛡️ Passionate about **Bug Bounty Hunting** and hands-on **Penetration Testing**.  
+- 🔍 Proficient with tools like **Burp Suite**, **Nmap**, **Wireshark**, **Metasploit**, and more.  
+- 💻 Always eager to learn new techniques and contribute to open-source security projects.
 -	📫 You can reach me at **s.binsalman3@gmail.com**
 - 📄 View my CV: [My Resume](https://drive.google.com/file/d/1g9EsD0l6KHjcSv02U-BGvh-VrpKYyjdH/view?usp=sharing)  
 
