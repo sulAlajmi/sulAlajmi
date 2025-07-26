@@ -7,32 +7,32 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-- 🔐 Currently diving deep into **Cybersecurity**, with a focus on offensive security techniques.
-- 🛡️ Passionate about **Bug Bounty Hunting**, **Penetration Testing**, and web app security.
-- 🧰 Skilled with tools like **Burp Suite**, **Nmap**, **Wireshark**, **Metasploit**, and more.
-- 💻 Comfortable in **Linux** environments (especially Kali) and working with virtual labs.
-- 🎯 Actively learning through platforms like **TryHackMe**, **PortSwigger Labs**, and **Hack The Box**.
-- 📫 Reach me at: **s.binsalman3@gmail.com**
+- 🔐 Currently diving deep into **Cybersecurity**, with a focus on offensive security techniques.  
+- 🛡️ Passionate about **Bug Bounty Hunting**, **Penetration Testing**, and web app security.  
+- 🧰 Skilled with tools like **Burp Suite**, **Nmap**, **Wireshark**, **Metasploit**, and more.  
+- 💻 Comfortable in **Linux** environments (especially Kali) and working with virtual labs.  
+- 🎯 Actively learning through platforms like **TryHackMe**, **PortSwigger Labs**, and **Hack The Box**.  
+- 📫 Reach me at: **s.binsalman3@gmail.com**  
 - 📄 View my CV: [My Resume](https://drive.google.com/file/d/1g9EsD0l6KHjcSv02U-BGvh-VrpKYyjdH/view?usp=sharing)  
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/sultan-s-alajmi03" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools  
+## 🛠️ Technologies & Tools
 
 <p align="center">
-  <!-- Programming & Frameworks -->
+  <!-- Programming Languages & Frameworks -->
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
@@ -41,7 +41,7 @@
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/></a>
   <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
 
-  <!-- Tools & Platforms -->
+  <!-- Dev Tools -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
@@ -60,11 +60,18 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sulalajmi&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sulalajmi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
+
+
+ 
+  
