@@ -53,7 +53,7 @@
   <!-- Cybersecurity -->
   <a href="https://www.kali.org/" target="_blank"><img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" height="40"/></a>
   <a href="https://portswigger.net/burp" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/BurpSuite_Comunity_Edition.svg" alt="Burp Suite" width="40" height="40"/></a>
-  <a href="https://nmap.org/" target="_blank"><img src="https://nmap.org/images/favicon.ico" alt="Nmap" width="40" height="40"/></a>
+  <a href="https://nmap.org/" target="_blank"><img src="https://nmap.org/images/favicon.icon.svg" alt="Nmap" width="40" height="40"/></a>
   <a href="https://www.wireshark.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="40" height="40"/></a>
 </p>
