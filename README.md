@@ -31,7 +31,7 @@
 
 ## 🛠️ Technologies & Tools
 
-<!-- All Technologies Centered -->
+
 <p align="center">
 
   <!-- Programming Languages & Frameworks -->
@@ -107,7 +107,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sulalajmi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
----
+
 
 
  
