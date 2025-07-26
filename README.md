@@ -84,7 +84,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/BurpSuite_Comunity_Edition.svg" alt="Burp Suite" width="40" height="40"/>
   </a>
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://nmap.org/images/favicon.icon.svg" alt="Nmap" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:351/0*P4UVvCNl7EX4Xfgn.png" alt="Nmap" width="40" height="40"/>
   </a>
   <a href="https://www.wireshark.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" width="40" height="40"/>
