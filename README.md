@@ -86,10 +86,6 @@
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="40" height="40"/>
   </a>  
-
-  <a href="https://www.metasploit.com/" target="_blank">
-  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/08/metasploit-framework-logo.svg.png" alt="Metasploit" width="40" height="40"/>
-</a>
 </p>
 
 ---
