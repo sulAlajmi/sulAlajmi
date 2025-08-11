@@ -11,11 +11,11 @@
 
 - 🔐 Currently diving deep into **Cybersecurity**, with a focus on offensive security techniques.  
 - 🛡️ Passionate about **Bug Bounty Hunting**, **Penetration Testing**, and web app security.  
-- 🧰 Skilled with tools like **Burp Suite**, **Nmap**, **Wireshark**, **Metasploit**, and more.  
+- 💡 Skilled with tools like **Burp Suite**, **Nmap**, **Wireshark**, **Metasploit**, and more.  
 - 💻 Comfortable working in **Linux** and using Virtual Machines (VMs) 
-- 🎯 Actively learning through platforms like **TryHackMe**, **PortSwigger Labs**, and **Hack The Box**.  
+- 🎯 Actively learning through platforms like **TryHackMe** & **PortSwigger Labs**
 - 📫 Reach me at: **s.binsalman3@gmail.com**  
-- 📄 View my CV: [My Resume](https://drive.google.com/file/d/1iozIccMF4U1vZ1A7AV_3NjMzFP4mJgtS/view?usp=sharing)  
+- 📄 View my CV: [My Resume](https://drive.google.com/file/d/16zpW9vzmsQbkH4GXz2ks59__Mdt0KImI/view?usp=sharing)  
 
 ---
 
