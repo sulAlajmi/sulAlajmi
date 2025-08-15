@@ -15,7 +15,6 @@
 - 💻 Comfortable working in **Linux** and using Virtual Machines (VMs) 
 - 🎯 Actively learning through platforms like **TryHackMe** & **PortSwigger Labs**
 - 📫 Reach me at: **s.binsalman3@gmail.com**  
-- 📄 View my CV: [My Resume](https://drive.google.com/file/d/1IHIL9aa5iliBm_P8YprjN1zmR1a0iHqz/view?usp=sharing)  
 
 ---
 
