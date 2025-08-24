@@ -46,9 +46,6 @@
   <a href="https://flutter.dev" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/>
   </a>
@@ -60,13 +57,6 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-
   <!-- Web -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
