@@ -9,10 +9,9 @@
 
 ## 🚀 About Me
 
-- 🔐 Offensive Security learner
-- 🛡️ Focus on Bug Bounties & Web Pentesting 
-- 💻 Linux + common security tooling 
-- 🎯 Actively learning on TryHackMe & PortSwigger Labs
+- 🔐 Cybersecurity Enthusiast
+- 💻 Linux & Security Tooling Practitioner
+- 🎯 Hands-on Learning through TryHackMe, PortSwigger, and More
 - 📫 Reach me at: **s.binsalman3@gmail.com**  
 
 ---
